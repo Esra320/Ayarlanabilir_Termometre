@@ -1,0 +1,1 @@
+# Ayarlanabilir_Termometre
